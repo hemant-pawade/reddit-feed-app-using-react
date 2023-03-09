@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reddit-feed-app-using-react/static/css/main.4366cded.css",
-    "main.js": "/reddit-feed-app-using-react/static/js/main.459de316.js",
+    "main.js": "/reddit-feed-app-using-react/static/js/main.0cf633dc.js",
     "index.html": "/reddit-feed-app-using-react/index.html",
     "main.4366cded.css.map": "/reddit-feed-app-using-react/static/css/main.4366cded.css.map",
-    "main.459de316.js.map": "/reddit-feed-app-using-react/static/js/main.459de316.js.map"
+    "main.0cf633dc.js.map": "/reddit-feed-app-using-react/static/js/main.0cf633dc.js.map"
   },
   "entrypoints": [
     "static/css/main.4366cded.css",
-    "static/js/main.459de316.js"
+    "static/js/main.0cf633dc.js"
   ]
 }
