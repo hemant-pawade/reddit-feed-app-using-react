@@ -1,13 +1,59 @@
-body {
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding:0;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  background-image: url("https://thumbs.gfycat.com/HalfThunderousFlyingfox-size_restricted.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  text-align: center;
+  margin: 1.5rem 0 0;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+header{
+  padding: 2rem;
+  /* background: white; */
+}
+
+header input{
+  width:100%;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  outline-width: 0;
+  border: 1px solid lightgray;
+  box-shadow: -1px  4px 20px -6px rgba(0,0,0,0.8);
+}
+
+.articles article{
+  padding: 1rem;
+}
+
+.header2{
+  text-align: center;
+  
+}
+
+.text{
+  text-align: center ;
+  margin: 0 200px;
+  font-size:larger ;
+  font-weight: bold;
+  color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
+.card-body{
+  background-image: url('https://e0.pxfuel.com/wallpapers/463/715/desktop-wallpaper-white-neon-rays-gray-backgrounds-abstract-waves-wavy-patterns-neon-waves.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: center;
 }
